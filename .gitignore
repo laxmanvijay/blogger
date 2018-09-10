@@ -1,0 +1,6 @@
+.flaskenv
+migrations/
+.vscode/
+__pycache__/
+config.py
+logs/

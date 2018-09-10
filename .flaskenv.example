@@ -1,0 +1,7 @@
+FLASK_APP=blogger.py
+MAIL_SERVER=smtp.gmail.com
+MAIL_PORT=587
+MAIL_USE_TLS=1
+MAIL_USERNAME=<email>
+MAIL_PASSWORD=<password>
+FLASK_DEBUG=0
